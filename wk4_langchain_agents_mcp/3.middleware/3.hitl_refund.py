@@ -43,6 +43,9 @@ def build_llm() -> ChatOpenAI:
 ORDERS = {
     "A1001": {"item": "Wireless Headphones", "amount": 79.99, "status": "delivered"},
     "A1002": {"item": "USB-C Cable", "amount": 12.50, "status": "delivered"},
+    "A1003": {"item": "Mechanical Keyboard", "amount": 129.00, "status": "shipped"},
+    "A1004": {"item": "Laptop Stand", "amount": 45.75, "status": "processing"},
+    "A1005": {"item": "4K Monitor", "amount": 349.99, "status": "delivered"},
 }
 
 
