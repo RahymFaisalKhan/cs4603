@@ -27,3 +27,4 @@ streamlit-chat
 tavily-python
 pandas
 fastmcp
+grandalf
